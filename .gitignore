@@ -1,0 +1,17 @@
+# Arquivos de ambiente
+.env
+
+# Arquivos de compilação
+*.pyc
+*.pyo
+__pycache__/
+
+# Diretório virtualenv/venv
+venv/
+env/
+
+# Arquivos gerados pelo Streamlit
+streamlit/*.log
+
+# Outros
+.DS_Store
